@@ -6,3 +6,12 @@ h1{
     font-family:'Times New Roman', Times, serif;
     font-size:  10rem;
 }
+
+#header{
+    font: normal bold Arial 200rem;
+    background-color: rgba(242,247,247, 0.5);
+}
+
+hmtl{
+    font : 10px;
+}
