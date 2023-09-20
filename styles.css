@@ -1,17 +1,17 @@
 body{
-    background-color: rgb(181, 194, 196);
+    background-color: rgb(233, 234, 242);
 }
 
-h1{
-    font-family:'Times New Roman', Times, serif;
-    font-size:  10rem;
-}
 
 #header{
     font: normal bold Arial 200rem;
     background-color: rgba(242,247,247, 0.5);
 }
 
-hmtl{
+.hmtl{
     font : 10px;
+}
+
+.headerFont{
+    font : 100px;
 }
