@@ -11,6 +11,10 @@ pSelect{
 
 }
 
+pSelect:hover{
+    font-size: 3vw;
+}
+
 pCurrent{
     font-size: 3vw;
     font-weight: bold;
