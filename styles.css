@@ -67,3 +67,7 @@ imgboxing{
 #marginSpacing{
     margin-top: 2rem;
 }
+
+img{
+   border: 10px rgba(230, 178, 2247, 0.4);
+}
