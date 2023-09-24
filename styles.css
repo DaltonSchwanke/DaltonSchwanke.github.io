@@ -2,6 +2,10 @@ body{
     background-color: rgba(230, 178, 2247, 0.4);
 }
 
+div1{
+    align-items: center;
+}
+
 
 pSelect{
     font-size: 2.5vw;
@@ -32,6 +36,7 @@ pHeader{
 
 #textCenter{
     text-align: center;
+    top: 50%;
     background-color: rgba(230, 178, 2247, 0.4);
     border-bottom: 0.25rem solid rgba(230, 178, 2247, 0.4);
 }
@@ -59,6 +64,7 @@ imgboxing{
 }
 
 #textStyle{
+    margin: 3rem;
     font-size: 2.5vw;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
@@ -69,5 +75,14 @@ imgboxing{
 }
 
 img{
-   border: 10px rgba(230, 178, 2247, 0.4);
+    size: 20%;
+    margin: auto;
+    border: 5rem rgba(230, 178, 2247, 0.4);
 }
+
+.centerText{
+    text-align: center;
+}
+
+
+
