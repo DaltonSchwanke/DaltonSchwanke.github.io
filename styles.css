@@ -57,11 +57,6 @@ pHeader{
     background-color: rgba(230, 178, 2247, 0.4);
 }
 
-imgboxing{
-    border-width: 0.25rem;
-    border-color: purple;
-    border-style: solid;
-}
 
 #textStyle{
     margin: 3rem;
@@ -74,14 +69,24 @@ imgboxing{
     margin-top: 2rem;
 }
 
-img{
-    size: 20%;
-    margin: auto;
-    border: 5rem rgba(230, 178, 2247, 0.4);
-}
+
 
 .centerText{
     text-align: center;
+}
+
+
+.imageCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resumStyle{
+    margin: 3rem;
+    font-size: 2vw;
+    font-weight: bold;
+    font-family:  'Times New Roman', Times, serif;
 }
 
 
