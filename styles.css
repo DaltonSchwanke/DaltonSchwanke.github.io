@@ -90,4 +90,10 @@ pHeader{
 }
 
 
+img{
+    border: 2rem solid rgba(230, 178, 2247, 0.4);
+    box-sizing: border-box;
+}
+
+
 
