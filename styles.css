@@ -83,7 +83,9 @@ pHeader{
 }
 
 .resumStyle{
-    margin: 3rem;
+    margin: 1rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
     font-size: 2vw;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
@@ -93,7 +95,9 @@ pHeader{
 img{
     border: 2rem solid rgba(230, 178, 2247, 0.4);
     box-sizing: border-box;
+    margin: auto;
 }
+
 
 
 
