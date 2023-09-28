@@ -1,3 +1,7 @@
+html{
+    font-size: 3vw;
+}
+
 body{
     background-color: rgba(230, 178, 2247, 0.4);
 }
@@ -8,7 +12,7 @@ div1{
 
 
 pSelect{
-    font-size: 2.5vw;
+    font-size: 1.1rem;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     color: black;
@@ -17,7 +21,7 @@ pSelect{
 }
 
 pCurrent{
-    font-size: 3vw;
+    font-size: 1.2rem;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     color: black;
@@ -60,7 +64,7 @@ pHeader{
 
 #textStyle{
     margin: 3rem;
-    font-size: 2rem;
+    font-size: 2em;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
@@ -86,7 +90,7 @@ pHeader{
     margin: 1rem;
     margin-left: 6rem;
     margin-right: 6rem;
-    font-size: 2rem;
+    font-size: 2em;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
