@@ -60,7 +60,7 @@ pHeader{
 
 #textStyle{
     margin: 3rem;
-    font-size: 2.5vw;
+    font-size: 2rem;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
@@ -86,7 +86,7 @@ pHeader{
     margin: 1rem;
     margin-left: 6rem;
     margin-right: 6rem;
-    font-size: 2vw;
+    font-size: 2rem;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
