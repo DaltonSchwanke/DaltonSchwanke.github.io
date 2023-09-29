@@ -1,5 +1,5 @@
 html{
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 
 body{
@@ -12,7 +12,7 @@ div1{
 
 
 pSelect{
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     color: black;
@@ -32,7 +32,7 @@ pCurrent{
 
 
 pHeader{
-    font-size: 4vw;
+    font-size: 1.3rem;
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
@@ -42,7 +42,7 @@ pHeader{
     text-align: center;
     top: 50%;
     background-color: rgba(230, 178, 2247, 0.4);
-    border-bottom: 0.25rem solid rgba(230, 178, 2247, 0.4);
+    border-bottom: 0.125rem solid rgba(230, 178, 2247, 0.4);
 }
 
 
@@ -51,9 +51,9 @@ pHeader{
 #barBorder{
     text-align: center;
     background-color: rgba(230, 178, 2247, 0.4);
-    border-bottom: 0.25rem solid rgba(230, 178, 2247, 0.4);
-    border-left: 0.125rem solid rgba(230, 178, 2247, 0.4);
-    border-right: 0.125rem solid rgba(230, 178, 2247, 0.4);
+    border-bottom: 0.125rem solid rgba(230, 178, 2247, 0.4);
+    border-left: 0.0625rem solid rgba(230, 178, 2247, 0.4);
+    border-right: 0.0625rem solid rgba(230, 178, 2247, 0.4);
     border-top: hidden;
 }
 
@@ -63,8 +63,8 @@ pHeader{
 
 
 #textStyle{
-    margin: 3rem;
-    font-size: 2em;
+    margin: 1rem;
+    font-size: 1rem;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
@@ -88,16 +88,19 @@ pHeader{
 
 .resumStyle{
     margin: 1rem;
-    margin-left: 6rem;
-    margin-right: 6rem;
-    font-size: 2em;
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 0.8rem;
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
 
 
 img{
-    border: 2rem solid rgba(230, 178, 2247, 0.4);
+    width: 30rem;
+    height: 100%;
+    border: 1rem solid rgba(230, 178, 2247, 0.4);
     box-sizing: border-box;
     margin: auto;
 }
