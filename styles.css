@@ -2,9 +2,11 @@ html{
     font-size: 2.5vw;
 }
 
+
 body{
     background-color: rgba(230, 178, 2247, 0.4);
 }
+
 
 div1{
     align-items: center;
@@ -17,8 +19,10 @@ pSelect{
     font-family: 'Times New Roman', Times, serif;
     color: black;
     text-align: center;
+    margin: auto;
 
 }
+
 
 pCurrent{
     font-size: 1.2rem;
@@ -26,9 +30,8 @@ pCurrent{
     font-family: 'Times New Roman', Times, serif;
     color: black;
     text-align: center;
+    margin: auto;
 }
-
-
 
 
 pHeader{
@@ -36,7 +39,23 @@ pHeader{
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
+    margin: auto;
 }
+
+
+img{
+
+    max-width: 35rem;
+    max-height: 35rem;
+    width: auto;
+    height: auto;
+    border: 1rem solid rgba(230, 178, 2247, 0.4);
+    box-sizing: border-box;
+    margin: auto;
+}
+
+
+
 
 #textCenter{
     text-align: center;
@@ -44,8 +63,6 @@ pHeader{
     background-color: rgba(230, 178, 2247, 0.4);
     border-bottom: 0.125rem solid rgba(230, 178, 2247, 0.4);
 }
-
-
 
 
 #barBorder{
@@ -56,6 +73,7 @@ pHeader{
     border-right: 0.0625rem solid rgba(230, 178, 2247, 0.4);
     border-top: hidden;
 }
+
 
 #barBorder:hover{
     background-color: rgba(230, 178, 2247, 0.4);
@@ -69,9 +87,11 @@ pHeader{
     font-family:  'Times New Roman', Times, serif;
 }
 
+
 #marginSpacing{
     margin-top: 2rem;
 }
+
 
 
 
@@ -86,6 +106,7 @@ pHeader{
     align-items: center;
 }
 
+
 .resumStyle{
     margin: 1rem;
     margin-bottom: 1.5rem;
@@ -95,19 +116,3 @@ pHeader{
     font-weight: bold;
     font-family:  'Times New Roman', Times, serif;
 }
-
-
-img{
-
-    max-width: 30rem;
-    max-height: 30rem;
-    width: auto;
-    height: auto;
-    border: 1rem solid rgba(230, 178, 2247, 0.4);
-    box-sizing: border-box;
-    margin: auto;
-}
-
-
-
-
