@@ -98,8 +98,11 @@ pHeader{
 
 
 img{
-    width: 30rem;
-    height: 100%;
+
+    max-width: 30rem;
+    max-height: 30rem;
+    width: auto;
+    height: auto;
     border: 1rem solid rgba(230, 178, 2247, 0.4);
     box-sizing: border-box;
     margin: auto;
